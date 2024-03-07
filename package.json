@@ -1,6 +1,6 @@
 {
-  "homepage" : "http://TravisM74.github.io/booklistreact",
-  "name": "mainapp",
+  "homepage": "http://TravisM74.github.io/booklistreact",
+  "name": "booklistreact",
   "private": true,
   "version": "0.0.0",
   "type": "module",
